@@ -35,7 +35,7 @@ Example::
     ntptime.settime()
     print("Local time after synchronization：%s" %str(time.localtime()))
 
-运行结果::
+Operational Ouput::
 
     Connecting to network...
     WiFi Connection Successful,Network Config:('172.20.10.4', '255.255.255.240', '172.20.10.1', '172.20.10.1')
